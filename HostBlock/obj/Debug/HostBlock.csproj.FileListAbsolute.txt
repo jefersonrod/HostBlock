@@ -1,0 +1,9 @@
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\bin\Debug\HostBlock.exe.config
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\bin\Debug\HostBlock.exe
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\bin\Debug\HostBlock.pdb
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\obj\Debug\HostBlock.csprojResolveAssemblyReference.cache
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\obj\Debug\HostBlock.Form1.resources
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\obj\Debug\HostBlock.Properties.Resources.resources
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\obj\Debug\HostBlock.csproj.GenerateResource.Cache
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\obj\Debug\HostBlock.exe
+D:\Documentos\OneDrive\src\Visual Studio 2015\Projects\HostBlock\HostBlock\obj\Debug\HostBlock.pdb
